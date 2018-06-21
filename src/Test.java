@@ -4,7 +4,8 @@
 public class Test {
 
     public void go(){
-        System.out.println("heheBBBBBB");
+        System.out.println("heheAAAAABBBBBB");
+
 
     }
 }
